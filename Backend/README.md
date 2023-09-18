@@ -51,7 +51,10 @@ To search for a user, we would be using postman for testing.
 - [Moncha](https://mochajs.org/) -for automated tests
 
 ### Deployment
-It can be deployed on render as a web service
+It can be deployed on render as a web service. The deployed site is this 
+```
+https://releaf.onrender.com/suggestions
+```
 
 ### Versioning
 I used git for versioning 
